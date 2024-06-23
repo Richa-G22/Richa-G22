@@ -23,3 +23,10 @@ I have experience of working on traditional waterfall, AGILE and onshore / offsh
 
 I recently graduated from App Academy and am very excited to start the next chapter of my career !! 
 I am open to opportunities in frontend/backend development.
+
+### My projects - 
+1. <a href=https://clickr-qv53.onrender.com/>Clickr</a> - 
+              Clickr was developed for educational purpose at App Academy, keeping in mind the famous photo sharing website "Flickr". It aims at providing the user with a similar experience of sharing and exploring captivating images.
+
+2. <a href=https://booktable.onrender.com/>BookTable</a> -
+              BookTable was also developed for educational purpose. The functionality is loosely inspired by table reservation website 'Open Table'. The website allows users to view, select a restaurant of choice and to reserve a table there.
